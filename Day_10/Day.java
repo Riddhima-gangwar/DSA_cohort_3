@@ -13,7 +13,7 @@ public class Day {
             System.out.println("28 or 29 days");
         }
         else{
-            System.out.println("Invalid input");
+            System.out.println("Invalid input.");
         }
     }
 }
