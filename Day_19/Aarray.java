@@ -8,6 +8,8 @@ public class Aarray {
         //     System.out.print(temp+" ");
         // }
 
+        //two ways
+        
         System.out.println(Arrays.toString(arr));
     }
 }
